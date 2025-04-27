@@ -38,8 +38,7 @@ This project is a professional frontend implementation of an AI Safety Incident 
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/your-username/ai-safety-incident-dashboard.git
-   cd ai-safety-incident-dashboard
+   git clone https://github.com/anjeetpatel/sparklewood.git
    \`\`\`
 
 2. Install dependencies:
